@@ -58,9 +58,3 @@
   <h2> 👤 Contact me </h2>
   <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img alt="myemail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-  
-<div align="right">
-	<a href="https://github.com/RiqKKas/RiqKKas/blob/main/README.pt-br.md" >
-		<img src="https://img.shields.io/badge/Lang-pt--BR-blue" alt="Translate to Portuguese"/>
-	</a>
-</div>
