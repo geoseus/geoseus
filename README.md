@@ -1,21 +1,5 @@
 
 <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
-
-<div align="left" style="display: inline_block" > 
-  <table align="center" width="100%" border="10">
-    <tr>
-      <td width="100%" >
-         <h3>✌ Oops, how are you? I'm Riquelme D. Silva!</h3>
-        <ul>
-          <li>👨‍💻 Full Stack Web Developer in training </li>
-          <li>📚 Information Systems Student </li>
-          <li>🌱 IT enthusiast </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
  
 <div align="left" style="display: inline_block" > 
   <h2> 🛠 Technologies and Tools </h2>
