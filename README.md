@@ -52,9 +52,3 @@
       </tr>
     </table>
 </div>
-
-  
-<div align="left">
-  <h2> 👤 Contact me </h2>
-  <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img alt="myemail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
